@@ -1,0 +1,9 @@
+
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(×Æ„ï8äÚ·Å¢-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÉñ¦úÿÿÿÿ8«·€–¤-
+Msquid:S2440"*Remove this instantiation of "NumBinario".(¬²´¼úÿÿÿÿ8—êš™¤-
+Rsquid:S2209"5Change this instance-reference to a static reference.(÷éÌ88—êš™¤-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ùÕ¿–¤-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷áÁ
